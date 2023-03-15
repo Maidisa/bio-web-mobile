@@ -1,0 +1,33 @@
+body {
+    font-size: 15pt;
+    background: ;
+    color: blueviolet;
+    text-align: center;
+    font-family: 'Poppins',Arial, Helvetica, sans-serif
+}
+h1{
+  color: blueviolet;
+}
+.Profile{
+  width: 50%;
+  border-radius: 100px
+}
+
+a{
+  text-decoration: none;
+}
+
+.contact {
+  display: block;
+  color: blueviolet;
+  padding: 20px;
+  background: ghostwhite;
+  margin: 16px;
+  box-shadow:5px 5px 5px plum ;
+}
+h1{
+  font-size: larger;
+}
+p{
+  font-size: small
+}
